@@ -10,5 +10,5 @@ I used and modified <a href="https://github.com/raulriera/TextFieldEffects">Hosh
 
 ## Requirements
 
-iOS 8.0+
-Xcode 7.3
+- iOS 8.0+
+- Xcode 7.3
