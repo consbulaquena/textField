@@ -6,9 +6,7 @@ I used and modified <a href="https://github.com/raulriera/TextFieldEffects">Hosh
 
 ## How it looks
 
-![alt tag](https://cloud.githubusercontent.com/assets/10540496/24723730/3260c2cc-1a7b-11e7-9f69-7ca16dadd615.gif){:class="img-responsive"}
-![alt tag](https://cloud.githubusercontent.com/assets/10540496/24723730/3260c2cc-1a7b-11e7-9f69-7ca16dadd615.gif){:height="50%" width="50%"}
-![alt tag](https://cloud.githubusercontent.com/assets/10540496/24723730/3260c2cc-1a7b-11e7-9f69-7ca16dadd615.gif){:height="400px" width="810px"}
+![alt tag](https://cloud.githubusercontent.com/assets/10540496/24723730/3260c2cc-1a7b-11e7-9f69-7ca16dadd615.gif?v=4&s=200)
 
 ## Requirements
 
